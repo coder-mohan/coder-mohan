@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on A Music Curator app
+- 🔭 I’m currently working on A Crypto-Tracker
 
 - 🌱 I’m currently learning node js, java,cp 
 
