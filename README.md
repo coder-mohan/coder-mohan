@@ -1,13 +1,9 @@
 <div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
+<img align="center" width="1200" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"></div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-mohan=Profile%20views&color=0e75b6&style=flat" alt="coder-mohan" /> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=coder-mohan.coder-mohan)
-
-</p>
 <div size='20px'> Hi! My name is Mohan Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -16,9 +12,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on A Crypto-Tracker
+- 🔭 I’m currently Looking for the Opportunity 
 
-- 🌱 I’m currently learning node js, java,cp 
+- 🌱 I’m currently learning react js, node js,cp 
 
 - 👯 I’m looking to collaborate on Projects 
 
