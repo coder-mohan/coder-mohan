@@ -3,7 +3,7 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coder-mohan&label=Profile%20views&color=ce9927&style=flat" alt="coder-mohan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-mohan&label=Profile%20views&color=ce9927&style=flat" alt="coder-mohan" /> </p>
 
 
 <div size='20px'> Hi! My name is Mohan Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
