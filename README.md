@@ -2,7 +2,9 @@
 <img align="center" width="1200" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"></div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-mohan=Profile%20views&color=0e75b6&style=flat" alt="coder-mohan" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coder-mohan&label=Profile%20views&color=ce9927&style=flat" alt="coder-mohan" /> </p>
+
 
 <div size='20px'> Hi! My name is Mohan Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
